@@ -30,7 +30,7 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
   </a>
   &emsp;
   <a href="https://spring.io/projects/spring-boot">
-    <img alt="SPRING-BOOT" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+    <img alt="SPRING-BOOT" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=springboot&logoColor=white"/>
   </a>
 </p>
 
