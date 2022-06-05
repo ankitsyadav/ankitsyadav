@@ -95,7 +95,7 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ankitsyadav"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitsyadav&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ankitsyadav"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitsyadav&custom_title=ANKIT%20SINGH%20YADAV's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
