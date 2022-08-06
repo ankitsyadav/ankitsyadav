@@ -32,6 +32,15 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
   <a href="https://spring.io/projects/spring-boot">
     <img alt="SPRING-BOOT" src="https://img.shields.io/badge/SPRING-BOOT-%23777BB4.svg?logo=springboot&logoColor=white"/>
   </a>
+   &emsp;
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JDBC" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+    &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Hibernate" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -54,6 +63,7 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
  </p>
  
  ### 👉 Software & Tools
@@ -70,6 +80,10 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="STS" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PostMan API" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
 </p>
 
