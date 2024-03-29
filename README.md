@@ -116,7 +116,7 @@ Check out my life experiences at [Instagram](https://www.instagram.com/professor
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:exam.portal.asy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:ankitsinghyadav009@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ankitsyadav"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ankit-singh-yadav-a0883022b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/exam.portal.asy/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
