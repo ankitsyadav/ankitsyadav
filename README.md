@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm ANKIT SINGH YADAV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/ankitsyadav/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SDE+1+@+heyhomie.me+|%20Node.js+|%20React|%20UChat%20Bot%20Expert&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ankitsyadav/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SDE 1+@+heyhomie.me+|%20Node.js+|%20React|%20UChat%20Bot%20Expert&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Full Stack Developer (SDE 1) renowned for crafting powerful WhatsApp chatbots, driving success for 50+ 
