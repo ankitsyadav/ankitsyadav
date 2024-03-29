@@ -1,19 +1,16 @@
-
-<h1 align="center">Hi , I'm ANKIT SINGH YADAV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm ANKIT SINGH YADAV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/ankitsyadav/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Application+Specialist+at+heyhomie.me;DSnALGO%20|%20javascript%20|%20JAVA%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ankitsyadav/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+|%20Node.js+|%20React;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Optimizing problems by thinking out of the box.A learning enthusiast grasping and observing patterns in day-to-day activities. Skilled in technologies and frameworks like Html, Javascript,ES6,Css, Java, Spring, MySQL, Hibernate, ES, GraphQL, JDBC,DAO etc.
-Badminton and Bike riding is favorite pastime.
+<h4 align="center">Optimizing problems by thinking out of the box. A learning enthusiast grasping and observing patterns in day-to-day activities. Skilled in technologies and frameworks like Node.js, React, JavaScript, HTML, CSS, Java, Spring, MySQL, Hibernate, GraphQL, and more. Badminton and bike riding are my favorite pastimes.
 
-Check out my life experiences at : https://www.instagram.com/professor__ankit/</h4>
+Check out my life experiences at [Instagram](https://www.instagram.com/professor__ankit/)</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitsyadav&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsyadav&theme=algolia" alt="ankitsyadav"  /></p>
-
 
 ## 🛠️ My Skills
 
@@ -25,21 +22,12 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23007396.svg?logo=node.js&logoColor=white">
   </a>
   &emsp;
-  <a href="https://spring.io/projects/spring-boot">
-    <img alt="SPRING-BOOT" src="https://img.shields.io/badge/SPRING-BOOT-%23777BB4.svg?logo=springboot&logoColor=white"/>
-  </a>
-   &emsp;
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JDBC" src="https://img.shields.io/badge/JDBC%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-    &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007396.svg?logo=java&logoColor=white">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%23007396.svg?logo=react&logoColor=white">
   </a>
 </p>
 
@@ -130,11 +118,3 @@ Check out my life experiences at : https://www.instagram.com/professor__ankit/</
 
 * Credit: [ANKIT SINGH YADAV](https://github.com/ankitsyadav)
 * Last Edited on: 04/06/2022
-
-
-
-
-
-
-
-
