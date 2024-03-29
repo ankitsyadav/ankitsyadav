@@ -1,9 +1,28 @@
 <h1 align="center">Hi, I'm ANKIT SINGH YADAV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/ankitsyadav/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+|%20Node.js+|%20React;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ankitsyadav/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SDE+1+@+heyhomie.me+|%20Node.js+|%20React; UChat%20Bot%20Expert&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Optimizing problems by thinking out of the box. A learning enthusiast grasping and observing patterns in day-to-day activities. Skilled in technologies and frameworks like Node.js, React, JavaScript, HTML, CSS, Java, Spring, MySQL, Hibernate, GraphQL, and more. Badminton and bike riding are my favorite pastimes.
+<h4 align="center">Full Stack Developer (SDE 1) renowned for crafting powerful WhatsApp chatbots, driving success for 50+ 
+B2B clients. Skilled in Google App Script automation, boosting productivity by 50%. Proficient in Node.js 
+backend development and efficient deployment on Digital Ocean. Adept in React.js for building dynamic 
+and responsive user interfaces, seamlessly integrating front-end experiences. Excels in the MERN stack, 
+bringing comprehensive expertise to both client and server-side development.
+
+**SDE 1 @ www.heyhomie.me**
+* Proficiency in server-side JavaScript with Node.js.
+* Developed RESTful APIs using Express.js.
+* Familiarity with asynchronous programming and npm.
+* Experience integrating databases using Sequelize or Mongoose.
+* Advanced JavaScript ES6+ knowledge.
+* Proficient in Git, RESTful API design, and front-end build tools.
+* Strong problem-solving and communication skills.
+* Familiarity with React.js for building interactive user interfaces.
+* Experience in state management with Redux or Context API.
+* Knowledge of modern React features like hooks and functional components.
+* Understanding of component lifecycle and virtual DOM.
+* Ability to integrate React with backend APIs for full-stack development.
+* Proficiency in responsive web design and CSS frameworks like Tailwind CSS or Material-UI.
 
 Check out my life experiences at [Instagram](https://www.instagram.com/professor__ankit/)</h4>
 <br>
@@ -91,15 +110,6 @@ Check out my life experiences at [Instagram](https://www.instagram.com/professor
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ankitsyadav"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitsyadav&custom_title=ANKIT%20SINGH%20YADAV's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 </details>
 
 <br/>
