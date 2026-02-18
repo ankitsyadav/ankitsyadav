@@ -12,7 +12,6 @@ Backend-focused product engineer building scalable, high-impact systems in finte
 I am a backend engineer specializing in scalable distributed systems, high-performance APIs, and fintech-grade infrastructure.
 
 Currently:
-- 🚀 Joining **EduFund** as **Product Engineer 2 – Backend**
 - 👨‍🏫 SDE & Instructor at **NST**
 - 🧠 Active open-source contributor (stdlib-js)
 
